@@ -1,0 +1,4 @@
+DIP#1
+192.168.1.134
+DRIVER={SQL Server};SERVER=192.168.1.134;database=demo;UID=sa;PWD=6954
+select top 1 * from CogentDatahub order by 'Datetime' DESC
